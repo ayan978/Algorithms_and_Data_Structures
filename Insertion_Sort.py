@@ -1,5 +1,5 @@
-#Checking if a very long number is divisible by 11 or not
 #Best Case: O(n), when the array is sorted
+#Average Case: O(n^2)
 #Worst Case: O(n^2), when the array is reversed
 
 def insertion_sort(list1):
