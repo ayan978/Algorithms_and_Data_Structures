@@ -1,4 +1,6 @@
-# Time complexity : O(n)
+#Checking if a very long number is divisible by 11 or not
+#Best Case: O(n), when the array is sorted
+#Worst Case: O(n^2), when the array is reversed
 
 def insertion_sort(list1):
     for j in range(1,len(list1)):
